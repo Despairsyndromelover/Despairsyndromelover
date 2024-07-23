@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Despairsyndromelover
 - 👀 I’m interested in programming, computer games.
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning ReactJS
 - 📫 Reach me in telegram: @despairsyndromelover
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: diamond 4
