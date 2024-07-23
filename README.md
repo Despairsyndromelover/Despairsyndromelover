@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Despairsyndromelover
+# 👋 Hi, I’m @Despairsyndromelover
 - 👀 I’m interested in programming, computer games.
 - 🌱 I’m currently learning typescript
 - 📫 Reach me in telegram: @despairsyndromelover
