@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer.
 -------------------
 
-Hi, I'm Matvey and I'm 15 years old. I've been doing frontend development for less than a year and I'm very interested in team projects, always ready to work and learn something new!
+Hi, I'm Matvey. I've been doing frontend development for less than a year and I'm very interested in team projects, always ready to work and learn something new!
 
 *   🌍  I'm based in Tobolsk, Russia
 *   🖥️  See my portfolio at [My github Profile >\_<](http://https://github.com/Despairsyndromelover)
