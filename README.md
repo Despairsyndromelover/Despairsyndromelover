@@ -8,7 +8,7 @@ Hi, I'm Matvey. I've been doing frontend development for less than a year and I'
 
 *   🌍  I'm based in Tobolsk, Russia
 *   🖥️  See my portfolio at [My github Profile >\_<](http://https://github.com/Despairsyndromelover)
-*   ✉️  You can contact me at [shiftlesswork@gmail.com](mailto:houxtenxd@gmail.com)
+*   ✉️  You can contact me at [matveyerokhinwork@gmail.com](mailto:matveyerokhinwork@gmail.com)
 *   🚀  I'm currently working on [Markdown editor!](https://github.com/Despairsyndromelover/Markdown-Editor)
 *   🧠  I'm learning JavaScript!
 *   🤝  I'm open to collaborating on Interesting projects!
