@@ -10,7 +10,7 @@ Hi, I'm Matvey. I've been doing frontend development for less than a year and I'
 *   🖥️  See my portfolio at [My github Profile >\_<](http://https://github.com/Despairsyndromelover)
 *   ✉️  You can contact me at [matveyerokhinwork@gmail.com](mailto:matveyerokhinwork@gmail.com)
 *   🚀  I'm currently working on [Markdown editor!](https://github.com/Despairsyndromelover/Markdown-Editor)
-*   🧠  I'm learning JavaScript!
+*   🧠  I'm learning Computer Science!
 *   🤝  I'm open to collaborating on Interesting projects!
 *   ⚡  I work out and like to play video games!
 *   ### Skills 
